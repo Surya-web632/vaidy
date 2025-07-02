@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi huckel
-=======
-hi yanai
->>>>>>> user1
+name:none
